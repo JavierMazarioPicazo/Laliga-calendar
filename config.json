@@ -1,0 +1,24 @@
+{
+  "timezone": "Europe/Madrid",
+  "duration_minutes": 120,
+  "alerts_minutes_before": [1440, 120],
+  "clubs": [
+    {
+      "slug": "atletico-de-madrid",
+      "name": "Atlético de Madrid",
+      "short_name": "Atleti",
+      "calendar_name": "Atlético de Madrid · LaLiga",
+      "color": "#D71920",
+      "url": "https://www.laliga.com/clubes/atletico-de-madrid/proximos-partidos"
+    },
+    {
+      "slug": "cd-leganes",
+      "name": "CD Leganés",
+      "short_name": "Leganés",
+      "calendar_name": "CD Leganés · LaLiga",
+      "color": "#005CA9",
+      "url": "https://www.laliga.com/clubes/cd-leganes/proximos-partidos"
+    }
+  ]
+}
+
