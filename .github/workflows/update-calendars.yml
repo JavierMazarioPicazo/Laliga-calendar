@@ -1,0 +1,28 @@
+name: Actualizar calendarios
+on:
+  schedule:
+    # Una vez al día: 06:17 UTC (07:17/08:17 en Madrid según horario estacional).
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["generate_calendars.py", "config.json"]
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python -m unittest discover -s tests -v
+      - run: python generate_calendars.py
+      - name: Guardar cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/
+          git diff --cached --quiet || git commit -m "Actualizar calendarios de LaLiga"
+          git push
