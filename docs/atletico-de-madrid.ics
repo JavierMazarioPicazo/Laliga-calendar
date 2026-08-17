@@ -6,12 +6,12 @@ METHOD:PUBLISH
 X-WR-CALNAME:Atlético de Madrid · LaLiga
 X-WR-TIMEZONE:Europe/Madrid
 X-APPLE-CALENDAR-COLOR:#D71920
-REFRESH-INTERVAL;VALUE=DURATION:PT6H
-X-PUBLISHED-TTL:PT6H
+REFRESH-INTERVAL;VALUE=DURATION:PT24H
+X-PUBLISHED-TTL:PT24H
 BEGIN:VEVENT
 UID:d557b152d0e9fcb8286eac89@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
 SUMMARY:🏠 Atlético de Madrid – Málaga CF
 DTSTART;TZID=Europe/Madrid:20260819T210000
 DTEND;TZID=Europe/Madrid:20260819T230000
@@ -34,8 +34,8 @@ CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
 END:VEVENT
 BEGIN:VEVENT
 UID:a51d000e0a28098b29cc52e3@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
 SUMMARY:🏠 Atlético de Madrid – Villarreal CF
 DTSTART;TZID=Europe/Madrid:20260823T170000
 DTEND;TZID=Europe/Madrid:20260823T190000
@@ -58,8 +58,8 @@ CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
 END:VEVENT
 BEGIN:VEVENT
 UID:25604faec5abef64043b474b@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
 SUMMARY:✈️ Sevilla FC – Atlético de Madrid
 DTSTART;TZID=Europe/Madrid:20260829T213000
 DTEND;TZID=Europe/Madrid:20260829T233000
@@ -82,8 +82,8 @@ CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
 UID:ce337beec2764f8c05f7b7c7@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
 SUMMARY:✈️ Athletic Club – Atlético de Madrid
 DTSTART;TZID=Europe/Madrid:20260905T161500
 DTEND;TZID=Europe/Madrid:20260905T181500
@@ -105,11 +105,11 @@ URL:https://www.laliga.com/clubes/athletic-club/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:f674064ff67bd027d97f42ee@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Real Sociedad – Atlético de Madrid · Horario p
- or confirmar
+UID:66c1a3f2eec30feb50d2f835@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Real Sociedad – Atlético de Madrid · Horario por confi
+ rmar
 DTSTART;VALUE=DATE:20260913
 DTEND;VALUE=DATE:20260914
 TRANSP:TRANSPARENT
@@ -120,11 +120,39 @@ URL:https://www.laliga.com/clubes/real-sociedad/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:e83a9f4565b072d93e5ce659@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Deportivo Alavés – Atlético de Madrid · Horar
- io por confirmar
+UID:f55e0af1b1d2744ee9c5bb78@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – CA Osasuna · Horario por confirmar
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:811cdd8b5063549c5daf93f3@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Real Madrid · Horario por confirmar
+DTSTART;VALUE=DATE:20260920
+DTEND;VALUE=DATE:20260921
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:f296faa1861c3238b81a9b42@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Deportivo Alavés – Atlético de Madrid · Horario por c
+ onfirmar
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
 TRANSP:TRANSPARENT
@@ -135,11 +163,11 @@ URL:https://www.laliga.com/clubes/d-alaves/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:7e6333161b4028f53b11400d@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- RCD Espanyol de Barcelona – Atlético de Madrid 
- · Horario por confirmar
+UID:9e065d96a39c42e66a90266c@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ RCD Espanyol de Barcelona – Atlético de Madrid · Horar
+ io por confirmar
 DTSTART;VALUE=DATE:20261018
 DTEND;VALUE=DATE:20261019
 TRANSP:TRANSPARENT
@@ -150,11 +178,26 @@ URL:https://www.laliga.com/clubes/rcd-espanyol/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:74e91158d03efc7b5462c956@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Levante UD – Atlético de Madrid · Horario por 
- confirmar
+UID:f866abcdee81ec55e0e183e4@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – RC Deportivo · Horario por confirma
+ r
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:bc819cbe3e8f47ec1e9c4b3a@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Levante UD – Atlético de Madrid · Horario por confirma
+ r
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 TRANSP:TRANSPARENT
@@ -165,11 +208,25 @@ URL:https://www.laliga.com/clubes/levante-ud/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:ecadced41ad771624b489336@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Getafe CF – Atlético de Madrid · Horario por c
- onfirmar
+UID:e87a97cc93b6bfe92003f2a9@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – FC Barcelona · Horario por confirma
+ r
+DTSTART;VALUE=DATE:20261108
+DTEND;VALUE=DATE:20261109
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:ee9b38e1d28c35f901de4f48@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Getafe CF – Atlético de Madrid · Horario por confirmar
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 TRANSP:TRANSPARENT
@@ -180,11 +237,10 @@ URL:https://www.laliga.com/clubes/getafe-cf/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:4359a540e08edfd9891bca45@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Elche CF – Atlético de Madrid · Horario por co
- nfirmar
+UID:3ea50ae19cf7567558eca2f8@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Elche CF – Atlético de Madrid · Horario por confirmar
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
@@ -195,11 +251,38 @@ URL:https://www.laliga.com/clubes/elche-c-f/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:00af5ef672b7d2db91d8cc40@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Celta – Atlético de Madrid · Horario por confi
- rmar
+UID:0c893639ac78de40dfdfe621@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Real Betis · Horario por confirmar
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:c9fa02a29d59b33442f5f2e2@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Valencia CF · Horario por confirmar
+DTSTART;VALUE=DATE:20261213
+DTEND;VALUE=DATE:20261214
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:08edd2e80416f282d35681df@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Celta – Atlético de Madrid · Horario por confirmar
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
@@ -210,11 +293,11 @@ URL:https://www.laliga.com/clubes/rc-celta/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:10bc9a23bf8af3808cc18e19@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Rayo Vallecano – Atlético de Madrid · Horario 
- por confirmar
+UID:18c16a7293a6aedbfb518008@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Rayo Vallecano – Atlético de Madrid · Horario por conf
+ irmar
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 TRANSP:TRANSPARENT
@@ -225,11 +308,41 @@ URL:https://www.laliga.com/clubes/rayo-vallecano/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:5865a4ca55afa007dea434bb@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- RC Deportivo – Atlético de Madrid · Horario po
- r confirmar
+UID:636cb131bee0b9c40318c45b@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – R. Racing Club · Horario por confir
+ mar
+DTSTART;VALUE=DATE:20270110
+DTEND;VALUE=DATE:20270111
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:b21383f3905f643474ee21ba@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Real Sociedad · Horario por confirm
+ ar
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:5b9f22f4c326c7c6dbeb22ce@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ RC Deportivo – Atlético de Madrid · Horario por confir
+ mar
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 TRANSP:TRANSPARENT
@@ -240,11 +353,26 @@ URL:https://www.laliga.com/clubes/rc-deportivo/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:75cf13ef724634a84d7d8a34@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- FC Barcelona – Atlético de Madrid · Horario po
- r confirmar
+UID:77ebbebcf7cb0eee10749b7a@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – RCD Espanyol de Barcelona · Horario
+  por confirmar
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:215a702cbca0fdea22d62b82@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ FC Barcelona – Atlético de Madrid · Horario por confir
+ mar
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 TRANSP:TRANSPARENT
@@ -255,11 +383,11 @@ URL:https://www.laliga.com/clubes/fc-barcelona/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:1e0585c8b482d1e9a99debe1@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- CA Osasuna – Atlético de Madrid · Horario por 
- confirmar
+UID:d5439dc87d250816680b9bb7@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ CA Osasuna – Atlético de Madrid · Horario por confirma
+ r
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 TRANSP:TRANSPARENT
@@ -270,11 +398,25 @@ URL:https://www.laliga.com/clubes/c-a-osasuna/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:83e5083dc6bdb751b1655725@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Málaga CF – Atlético de Madrid · Horario por 
- confirmar
+UID:bd5bb21f70c1cf45bfdd1447@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Elche CF · Horario por confirmar
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:ee269a8eefefc16a6915828c@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Málaga CF – Atlético de Madrid · Horario por confirma
+ r
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 TRANSP:TRANSPARENT
@@ -285,11 +427,25 @@ URL:https://www.laliga.com/clubes/malaga-cf/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:ecc87b0d42558e87610f2d94@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- R. Racing Club – Atlético de Madrid · Horario 
- por confirmar
+UID:886fead1e1b9b212897f707d@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Celta · Horario por confirmar
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:bf149b059c870c7bf82c72df@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ R. Racing Club – Atlético de Madrid · Horario por conf
+ irmar
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 TRANSP:TRANSPARENT
@@ -300,11 +456,25 @@ URL:https://www.laliga.com/clubes/r-racing-club/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:00fb301f806ae40cee684ad9@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Real Madrid – Atlético de Madrid · Horario por
-  confirmar
+UID:7b5e82ded5a925f0aac5a59a@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Getafe CF · Horario por confirmar
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:14a1a5e6f0e8d72dc9277249@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Real Madrid – Atlético de Madrid · Horario por confirm
+ ar
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 TRANSP:TRANSPARENT
@@ -315,11 +485,39 @@ URL:https://www.laliga.com/clubes/real-madrid/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:f646f8575220ef606bea67b1@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Villarreal CF – Atlético de Madrid · Horario p
- or confirmar
+UID:48cfcb406fabae073c6551f8@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Levante UD · Horario por confirmar
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:b7657161fcee65b54dbc5c0e@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Sevilla FC · Horario por confirmar
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:e24ce62a25886c163a520cba@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Villarreal CF – Atlético de Madrid · Horario por confi
+ rmar
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 TRANSP:TRANSPARENT
@@ -330,11 +528,26 @@ URL:https://www.laliga.com/clubes/villarreal-cf/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:8e9937fc2f7117475e6b7d63@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Valencia CF – Atlético de Madrid · Horario por
-  confirmar
+UID:788229a6d24f586dabf22788@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Deportivo Alavés · Horario por con
+ firmar
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5197c64014aa75c5688df5@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Valencia CF – Atlético de Madrid · Horario por confirm
+ ar
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 TRANSP:TRANSPARENT
@@ -345,11 +558,41 @@ URL:https://www.laliga.com/clubes/valencia-cf/resultados
 CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
 END:VEVENT
 BEGIN:VEVENT
-UID:3cd38658c599977383c93892@laliga-calendars
-DTSTAMP:20260817T152331Z
-LAST-MODIFIED:20260817T152331Z
-SUMMARY:✈️ -- : -- Real Betis – Atlético de Madrid · Horario por 
- confirmar
+UID:d99822a178b51e7bf8fa30df@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Rayo Vallecano · Horario por confir
+ mar
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:b82b4a2494811d90085863d8@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:🏠 Atlético de Madrid – Athletic Club · Horario por confirm
+ ar
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nFecha provi
+ sional y horario pendiente de confirmación por LaLiga.\nFuente oficial:
+  https://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:3d4133fad24b3f2702dac36d@laliga-calendars
+DTSTAMP:20260817T152554Z
+LAST-MODIFIED:20260817T152554Z
+SUMMARY:✈️ Real Betis – Atlético de Madrid · Horario por confirma
+ r
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 TRANSP:TRANSPARENT
