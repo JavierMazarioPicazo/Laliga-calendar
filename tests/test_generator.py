@@ -9,6 +9,7 @@ class Tests(unittest.TestCase):
         matches = parse_matches(HTML, "https://www.laliga.com")
         self.assertEqual((matches[0].home, matches[0].away), ("Real Oviedo", "CD Leganés")); self.assertEqual(matches[0].kickoff, time(17, 0))
         self.assertEqual(matches[0].broadcaster, "LALIGA TV HYPERMOTION"); self.assertIsNone(matches[1].kickoff)
+        self.assertEqual((matches[1].home, matches[1].away), ("CD Leganés", "Granada CF"))
     def test_stable_uid(self):
         match = parse_matches(HTML, "https://www.laliga.com")[0]
         changed = match.__class__(match.match_date.replace(day=23), time(18, 30), match.home, match.away, match.competition, match.broadcaster, match.source_url)
