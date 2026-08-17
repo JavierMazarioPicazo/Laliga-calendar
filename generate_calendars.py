@@ -11,7 +11,7 @@ from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent
 DATE_RE = re.compile(r"\b(\d{2}\.\d{2}\.\d{4})\b")
-TIME_RE = re.compile(r"\b(\d{2}:\d{2}|--\s*:\s*--)\b")
+TIME_RE = re.compile(r"(?<!\d)(\d{2}:\d{2}|--\s*:\s*--)(?!\d)")
 MATCH_RE = re.compile(r"(.+?)\s+VS\s+(.+?)(?=\s+LALIGA\b)", re.I)
 COMP_RE = re.compile(r"(LALIGA\s+(?:EA SPORTS|HYPERMOTION))", re.I)
 
@@ -84,7 +84,7 @@ def make_calendar(matches: list[Match], club: dict, config: dict) -> bytes:
     tz, stamp = ZoneInfo(config["timezone"]), datetime.now(ZoneInfo("UTC")).strftime("%Y%m%dT%H%M%SZ")
     lines = ["BEGIN:VCALENDAR", "VERSION:2.0", "PRODID:-//LaLiga club calendars//ES", "CALSCALE:GREGORIAN", "METHOD:PUBLISH",
         f"X-WR-CALNAME:{escape(club['calendar_name'])}", f"X-WR-TIMEZONE:{config['timezone']}", f"X-APPLE-CALENDAR-COLOR:{club['color']}",
-        "REFRESH-INTERVAL;VALUE=DURATION:PT6H", "X-PUBLISHED-TTL:PT6H"]
+        "REFRESH-INTERVAL;VALUE=DURATION:PT24H", "X-PUBLISHED-TTL:PT24H"]
     for match in matches:
         home_game = match.home.casefold() == club["name"].casefold()
         summary = f"{'🏠' if home_game else '✈️'} {match.home} – {match.away}" + (" · Horario por confirmar" if not match.kickoff else "")
