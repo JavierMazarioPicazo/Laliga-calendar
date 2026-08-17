@@ -1,0 +1,362 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LaLiga club calendars//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Atlético de Madrid · LaLiga
+X-WR-TIMEZONE:Europe/Madrid
+X-APPLE-CALENDAR-COLOR:#D71920
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:d557b152d0e9fcb8286eac89@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:🏠 Atlético de Madrid – Málaga CF
+DTSTART;TZID=Europe/Madrid:20260819T210000
+DTEND;TZID=Europe/Madrid:20260819T230000
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atleti juega pronto
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atleti juega pronto
+TRIGGER:-PT120M
+END:VALARM
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nTelevisión
+ : Movistar LALIGA\,Movistar Plus+\,Orange Fútbol 1\nFuente oficial: htt
+ ps://www.laliga.com/clubes/atletico-de-madrid/resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:a51d000e0a28098b29cc52e3@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:🏠 Atlético de Madrid – Villarreal CF
+DTSTART;TZID=Europe/Madrid:20260823T170000
+DTEND;TZID=Europe/Madrid:20260823T190000
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atleti juega pronto
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atleti juega pronto
+TRIGGER:-PT120M
+END:VALARM
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA EA SPORTS\nTelevisión
+ : DAZN\nFuente oficial: https://www.laliga.com/clubes/atletico-de-madrid
+ /resultados
+URL:https://www.laliga.com/clubes/atletico-de-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:25604faec5abef64043b474b@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ Sevilla FC – Atlético de Madrid
+DTSTART;TZID=Europe/Madrid:20260829T213000
+DTEND;TZID=Europe/Madrid:20260829T233000
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atleti juega pronto
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atleti juega pronto
+TRIGGER:-PT120M
+END:VALARM
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nTelevisió
+ n: Movistar LALIGA\nFuente oficial: https://www.laliga.com/clubes/sevill
+ a-fc/resultados
+URL:https://www.laliga.com/clubes/sevilla-fc/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:ce337beec2764f8c05f7b7c7@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ Athletic Club – Atlético de Madrid
+DTSTART;TZID=Europe/Madrid:20260905T161500
+DTEND;TZID=Europe/Madrid:20260905T181500
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atleti juega pronto
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Atleti juega pronto
+TRIGGER:-PT120M
+END:VALARM
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nTelevisió
+ n: Movistar LALIGA\nFuente oficial: https://www.laliga.com/clubes/athlet
+ ic-club/resultados
+URL:https://www.laliga.com/clubes/athletic-club/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:f674064ff67bd027d97f42ee@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Real Sociedad – Atlético de Madrid · Horario p
+ or confirmar
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/real-sociedad/resultados
+URL:https://www.laliga.com/clubes/real-sociedad/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:e83a9f4565b072d93e5ce659@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Deportivo Alavés – Atlético de Madrid · Horar
+ io por confirmar
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/d-alaves/resultados
+URL:https://www.laliga.com/clubes/d-alaves/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:7e6333161b4028f53b11400d@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- RCD Espanyol de Barcelona – Atlético de Madrid 
+ · Horario por confirmar
+DTSTART;VALUE=DATE:20261018
+DTEND;VALUE=DATE:20261019
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/rcd-espanyol/resultados
+URL:https://www.laliga.com/clubes/rcd-espanyol/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:74e91158d03efc7b5462c956@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Levante UD – Atlético de Madrid · Horario por 
+ confirmar
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/levante-ud/resultados
+URL:https://www.laliga.com/clubes/levante-ud/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:ecadced41ad771624b489336@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Getafe CF – Atlético de Madrid · Horario por c
+ onfirmar
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/getafe-cf/resultados
+URL:https://www.laliga.com/clubes/getafe-cf/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:4359a540e08edfd9891bca45@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Elche CF – Atlético de Madrid · Horario por co
+ nfirmar
+DTSTART;VALUE=DATE:20261129
+DTEND;VALUE=DATE:20261130
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/elche-c-f/resultados
+URL:https://www.laliga.com/clubes/elche-c-f/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:00af5ef672b7d2db91d8cc40@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Celta – Atlético de Madrid · Horario por confi
+ rmar
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/rc-celta/resultados
+URL:https://www.laliga.com/clubes/rc-celta/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:10bc9a23bf8af3808cc18e19@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Rayo Vallecano – Atlético de Madrid · Horario 
+ por confirmar
+DTSTART;VALUE=DATE:20270103
+DTEND;VALUE=DATE:20270104
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/rayo-vallecano/resultados
+URL:https://www.laliga.com/clubes/rayo-vallecano/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:5865a4ca55afa007dea434bb@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- RC Deportivo – Atlético de Madrid · Horario po
+ r confirmar
+DTSTART;VALUE=DATE:20270124
+DTEND;VALUE=DATE:20270125
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/rc-deportivo/resultados
+URL:https://www.laliga.com/clubes/rc-deportivo/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:75cf13ef724634a84d7d8a34@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- FC Barcelona – Atlético de Madrid · Horario po
+ r confirmar
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/fc-barcelona/resultados
+URL:https://www.laliga.com/clubes/fc-barcelona/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:1e0585c8b482d1e9a99debe1@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- CA Osasuna – Atlético de Madrid · Horario por 
+ confirmar
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/c-a-osasuna/resultados
+URL:https://www.laliga.com/clubes/c-a-osasuna/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:83e5083dc6bdb751b1655725@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Málaga CF – Atlético de Madrid · Horario por 
+ confirmar
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/malaga-cf/resultados
+URL:https://www.laliga.com/clubes/malaga-cf/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:ecc87b0d42558e87610f2d94@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- R. Racing Club – Atlético de Madrid · Horario 
+ por confirmar
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/r-racing-club/resultados
+URL:https://www.laliga.com/clubes/r-racing-club/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:00fb301f806ae40cee684ad9@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Real Madrid – Atlético de Madrid · Horario por
+  confirmar
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/real-madrid/resultados
+URL:https://www.laliga.com/clubes/real-madrid/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:f646f8575220ef606bea67b1@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Villarreal CF – Atlético de Madrid · Horario p
+ or confirmar
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/villarreal-cf/resultados
+URL:https://www.laliga.com/clubes/villarreal-cf/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:8e9937fc2f7117475e6b7d63@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Valencia CF – Atlético de Madrid · Horario por
+  confirmar
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/valencia-cf/resultados
+URL:https://www.laliga.com/clubes/valencia-cf/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd38658c599977383c93892@laliga-calendars
+DTSTAMP:20260817T152331Z
+LAST-MODIFIED:20260817T152331Z
+SUMMARY:✈️ -- : -- Real Betis – Atlético de Madrid · Horario por 
+ confirmar
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA EA SPORTS\nFecha prov
+ isional y horario pendiente de confirmación por LaLiga.\nFuente oficial
+ : https://www.laliga.com/clubes/real-betis/resultados
+URL:https://www.laliga.com/clubes/real-betis/resultados
+CATEGORIES:Atlético de Madrid,LALIGA EA SPORTS,Fuera
+END:VEVENT
+END:VCALENDAR

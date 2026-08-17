@@ -1,0 +1,350 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//LaLiga club calendars//ES
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CD Leganés · LaLiga
+X-WR-TIMEZONE:Europe/Madrid
+X-APPLE-CALENDAR-COLOR:#005CA9
+REFRESH-INTERVAL;VALUE=DURATION:PT6H
+X-PUBLISHED-TTL:PT6H
+BEGIN:VEVENT
+UID:09dce66f3494ef0b5ecbdd18@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ Real Oviedo – CD Leganés
+DTSTART;TZID=Europe/Madrid:20260822T170000
+DTEND;TZID=Europe/Madrid:20260822T190000
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leganés juega pronto
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leganés juega pronto
+TRIGGER:-PT120M
+END:VALARM
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nTelevisi
+ ón: LALIGA TV HYPERMOTION\,Orange Fútbol 2\nFuente oficial: https://ww
+ w.laliga.com/clubes/real-oviedo/resultados
+URL:https://www.laliga.com/clubes/real-oviedo/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:b44843f92f1559da299a1d22@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:🏠 CD Leganés – CD Eldense
+DTSTART;TZID=Europe/Madrid:20260829T190000
+DTEND;TZID=Europe/Madrid:20260829T210000
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leganés juega pronto
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leganés juega pronto
+TRIGGER:-PT120M
+END:VALARM
+DESCRIPTION:Condición: Casa\nCompetición: LALIGA HYPERMOTION\nTelevisi
+ ón: LALIGA TV HYPERMOTION\nFuente oficial: https://www.laliga.com/clube
+ s/cd-leganes/resultados
+URL:https://www.laliga.com/clubes/cd-leganes/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Casa
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0a1905085f54c7139890e6@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ UD Las Palmas – CD Leganés
+DTSTART;TZID=Europe/Madrid:20260904T203000
+DTEND;TZID=Europe/Madrid:20260904T223000
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leganés juega pronto
+TRIGGER:-PT1440M
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Leganés juega pronto
+TRIGGER:-PT120M
+END:VALARM
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nTelevisi
+ ón: TV Canaria\,LALIGA TV HYPERMOTION\,GOL\,CAYO TV\nFuente oficial: ht
+ tps://www.laliga.com/clubes/ud-las-palmas/resultados
+URL:https://www.laliga.com/clubes/ud-las-palmas/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:7f0a5df125e0b7110d37368e@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- CD Tenerife – CD Leganés · Horario por confirm
+ ar
+DTSTART;VALUE=DATE:20260913
+DTEND;VALUE=DATE:20260914
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/cd-tenerife/resultados
+URL:https://www.laliga.com/clubes/cd-tenerife/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:f61b4f2e23f986c94ffc4e7b@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- Cádiz CF – CD Leganés · Horario por confirmar
+DTSTART;VALUE=DATE:20261004
+DTEND;VALUE=DATE:20261005
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/cadiz-cf/resultados
+URL:https://www.laliga.com/clubes/cadiz-cf/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:6b7de2d343ce808db9739e27@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- UD Almería – CD Leganés · Horario por confirm
+ ar
+DTSTART;VALUE=DATE:20261011
+DTEND;VALUE=DATE:20261012
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/ud-almeria/resultados
+URL:https://www.laliga.com/clubes/ud-almeria/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:c504c987307117f7290443e8@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- Real Valladolid CF – CD Leganés · Horario por 
+ confirmar
+DTSTART;VALUE=DATE:20261101
+DTEND;VALUE=DATE:20261102
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/r-valladolid-cf/resultados
+URL:https://www.laliga.com/clubes/r-valladolid-cf/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:ee98e2839424514a6a9d836d@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- FC Andorra – CD Leganés · Horario por confirma
+ r
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/fc-andorra/resultados
+URL:https://www.laliga.com/clubes/fc-andorra/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:51b46085b09b2ad8ca6cf5f3@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- R. Sociedad B – CD Leganés · Horario por confi
+ rmar
+DTSTART;VALUE=DATE:20261206
+DTEND;VALUE=DATE:20261207
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/r-sociedad-b/resultados
+URL:https://www.laliga.com/clubes/r-sociedad-b/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:e67530bc1e6ab3b0abb3e297@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- Real Sporting – CD Leganés · Horario por confi
+ rmar
+DTSTART;VALUE=DATE:20261220
+DTEND;VALUE=DATE:20261221
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/real-sporting/resultados
+URL:https://www.laliga.com/clubes/real-sporting/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:087fc0fd8a6aa9d92a14aa7e@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- CD Castellón – CD Leganés · Horario por confi
+ rmar
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270118
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/cd-castellon/resultados
+URL:https://www.laliga.com/clubes/cd-castellon/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:d3dac70a2d2f06b3079cef38@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- Burgos CF – CD Leganés · Horario por confirmar
+DTSTART;VALUE=DATE:20270131
+DTEND;VALUE=DATE:20270201
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/burgos/resultados
+URL:https://www.laliga.com/clubes/burgos/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb6dad5fa4a83b5ab10e879@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- Granada CF – CD Leganés · Horario por confirma
+ r
+DTSTART;VALUE=DATE:20270214
+DTEND;VALUE=DATE:20270215
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/granada-cf/resultados
+URL:https://www.laliga.com/clubes/granada-cf/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:8d9f370c743494e19f23ff56@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- AD Ceuta FC – CD Leganés · Horario por confirm
+ ar
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/ad-ceuta-fc/resultados
+URL:https://www.laliga.com/clubes/ad-ceuta-fc/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:99149eda60d46ba3420102b1@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- RCD Mallorca – CD Leganés · Horario por confir
+ mar
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/rcd-mallorca/resultados
+URL:https://www.laliga.com/clubes/rcd-mallorca/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a9a6f2395284d513edfa61@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- CD Eldense – CD Leganés · Horario por confirma
+ r
+DTSTART;VALUE=DATE:20270328
+DTEND;VALUE=DATE:20270329
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/eldense/resultados
+URL:https://www.laliga.com/clubes/eldense/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:000b7123e9d72ae1afe92c0b@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- CE Sabadell – CD Leganés · Horario por confirm
+ ar
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/ce-sabadell/resultados
+URL:https://www.laliga.com/clubes/ce-sabadell/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:a8a77779191c5f7be6eae3ab@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- Albacete BP – CD Leganés · Horario por confirm
+ ar
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/albacete-bp/resultados
+URL:https://www.laliga.com/clubes/albacete-bp/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:d287a05c863421292b81ed55@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- SD Eibar – CD Leganés · Horario por confirmar
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/sd-eibar/resultados
+URL:https://www.laliga.com/clubes/sd-eibar/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:3e6b410fc78061074afa4d0d@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- Córdoba CF – CD Leganés · Horario por confirm
+ ar
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/cordoba-cf/resultados
+URL:https://www.laliga.com/clubes/cordoba-cf/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+BEGIN:VEVENT
+UID:dc85e07ea7fd728efe5b206c@laliga-calendars
+DTSTAMP:20260817T152333Z
+LAST-MODIFIED:20260817T152333Z
+SUMMARY:✈️ -- : -- Celta Fortuna – CD Leganés · Horario por confi
+ rmar
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+TRANSP:TRANSPARENT
+DESCRIPTION:Condición: Fuera\nCompetición: LALIGA HYPERMOTION\nFecha pr
+ ovisional y horario pendiente de confirmación por LaLiga.\nFuente ofici
+ al: https://www.laliga.com/clubes/rc-celta-b/resultados
+URL:https://www.laliga.com/clubes/rc-celta-b/resultados
+CATEGORIES:CD Leganés,LALIGA HYPERMOTION,Fuera
+END:VEVENT
+END:VCALENDAR
